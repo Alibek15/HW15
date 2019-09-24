@@ -1,0 +1,6 @@
+C:\Users\ww\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe.config
+C:\Users\ww\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.exe
+C:\Users\ww\source\repos\ConsoleApp27\ConsoleApp27\bin\Debug\ConsoleApp27.pdb
+C:\Users\ww\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.exe
+C:\Users\ww\source\repos\ConsoleApp27\ConsoleApp27\obj\Debug\ConsoleApp27.pdb
